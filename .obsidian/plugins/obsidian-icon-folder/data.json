@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasPeopleGroup",
+      "LiCode",
+      "LiBookOpen",
+      "LiCar",
+      "LiPlane"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "1 - Project": "LiCalendar",
+  "3 - Resource": "LiBook",
+  "4 - Archive": "FarTrashCan",
+  "2 - Area": "LiRefreshCw",
+  "Inbox": "LiInbox",
+  "Templates": "LiBookTemplate",
+  "2 - Area/2.1 - Perso": "LiUser",
+  "2 - Area/2.2 - Organisation": "SiAwsorganizations",
+  "2 - Area/2.3 - Workflow": "LiWrench",
+  "2 - Area/2.10 - Travail": "FasComputer",
+  "2 - Area/2.11 - Voyage": "LiPlane",
+  "2 - Area/2.12 - Voiture": "LiCar",
+  "2 - Area/2.4 - Administration": "LiBookOpen",
+  "2 - Area/2.5 - DEV interne": "LiCode",
+  "2 - Area/Clients": "FasPeopleGroup"
+}
