@@ -1,0 +1,26 @@
+.anp-custom-checkboxes [data-task="m"]>input[type=checkbox]:checked,
+.anp-custom-checkboxes [data-task="m"]>p>input[type=checkbox]:checked,
+.anp-custom-checkboxes [data-task="m"][type=checkbox]:checked {
+  --checkbox-color: transparent;
+  --checkbox-color-hover: transparent;
+  border-width: 0;
+}
+
+.anp-custom-checkboxes [data-task="m"]>input[type=checkbox]:checked:after,
+.anp-custom-checkboxes [data-task="m"]>p>input[type=checkbox]:checked:after,
+.anp-custom-checkboxes [data-task="m"][type=checkbox]:checked:after {
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22M3%204C1.89%204%201%204.89%201%206V18C1%2019.11%201.9%2020%203%2020H13.5A6.5%206.5%200%200%201%2013%2017.5A6.5%206.5%200%200%201%2019.5%2011A6.5%206.5%200%200%201%2021%2011.18V6C21%204.89%2020.1%204%2019%204H3M3%206L11%2011L19%206V8L11%2013L3%208V6M19%2012L16.75%2014.25L19%2016.5V15C20.38%2015%2021.5%2016.12%2021.5%2017.5C21.5%2017.9%2021.41%2018.28%2021.24%2018.62L22.33%2019.71C22.75%2019.08%2023%2018.32%2023%2017.5C23%2015.29%2021.21%2013.5%2019%2013.5V12M15.67%2015.29C15.25%2015.92%2015%2016.68%2015%2017.5C15%2019.71%2016.79%2021.5%2019%2021.5V23L21.25%2020.75L19%2018.5V20C17.62%2020%2016.5%2018.88%2016.5%2017.5C16.5%2017.1%2016.59%2016.72%2016.76%2016.38L15.67%2015.29Z%22%20%2F%3E%3C%2Fsvg%3E");
+  -webkit-mask-size: contain;
+  background-color: rgb(var(--ctp-peach));
+  left: 0px;
+}
+
+.anp-custom-checkboxes [data-task="m"]>input[type=checkbox]:checked:before,
+.anp-custom-checkboxes [data-task="m"]>p>input[type=checkbox]:checked:before,
+.anp-custom-checkboxes [data-task="m"][type=checkbox]:checked:before {
+  color: rgb(var(--ctp-peach));
+  margin: 0 3px;
+  position: absolute;
+  left: calc(var(--checkbox-size) * 1);
+  font-weight: bold;
+}

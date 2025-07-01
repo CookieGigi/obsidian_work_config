@@ -227,6 +227,13 @@
         "nextStatusSymbol": "9",
         "availableAsCommand": false,
         "type": "NON_TASK"
+      },
+      {
+        "symbol": "m",
+        "name": "Mail en attente",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "IN_PROGRESS"
       }
     ]
   },
