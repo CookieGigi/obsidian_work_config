@@ -7,6 +7,7 @@
     "status": "text",
     "birthday": "date",
     "category": "text",
-    "parent": "text"
+    "parent": "text",
+    "Date": "datetime"
   }
 }

@@ -16,7 +16,13 @@ sort by priority
 
 ```
 
-
+# Réunion
+```dataview
+table file.path, date, location, link
+WHERE file.cday = date(today)
+WHERE contains(type, "réunion")
+Where !contains(file.path, "Template")
+```
 
 
 
