@@ -4,7 +4,8 @@ creation_date: <% tp.file.creation_date() %>
 parent: "[[<% tp.file.folder() %>]]"
 Date: 
 Location: 
-Link:
+Link: 
+Participants:
 ---
 
 ## Information

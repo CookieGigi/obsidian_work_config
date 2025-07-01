@@ -8,6 +8,7 @@
     "birthday": "date",
     "category": "text",
     "parent": "text",
-    "Date": "datetime"
+    "Date": "datetime",
+    "Participants": "multitext"
   }
 }
