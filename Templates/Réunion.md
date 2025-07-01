@@ -7,6 +7,7 @@ Location:
 Link: 
 Participants: 
 Client: 
+Duration:
 ---
 
 ## Information
