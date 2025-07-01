@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSquareDot",
       "FasPeopleGroup",
       "LiCode",
       "LiBookOpen",
-      "LiCar",
-      "LiPlane"
+      "LiCar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,6 +47,6 @@
   "2 - Area/2.11 - Voyage": "LiPlane",
   "2 - Area/2.12 - Voiture": "LiCar",
   "2 - Area/2.4 - Administration": "LiBookOpen",
-  "2 - Area/2.5 - DEV interne": "LiCode",
-  "2 - Area/Clients": "FasPeopleGroup"
+  "2 - Area/Clients": "FasPeopleGroup",
+  "2 - Area/2.5 - Interne": "LiSquareDot"
 }
