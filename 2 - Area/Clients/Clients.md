@@ -5,7 +5,7 @@ category: "[[2 - Area]]"
 ---
 
 ```meta-bind-button
-label: Sub Area
+label: New client
 icon: plus
 hidden: false
 class: ""
@@ -14,7 +14,7 @@ id: ""
 style: default
 actions:
   - type: templaterCreateNote
-    templateFile: Templates/Sub Area.md
+    templateFile: Templates/Client.md
 
     fileName: ""
     openNote: true

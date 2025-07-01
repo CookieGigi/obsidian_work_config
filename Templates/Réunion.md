@@ -5,7 +5,8 @@ parent: "[[<% tp.file.folder() %>]]"
 Date: 
 Location: 
 Link: 
-Participants:
+Participants: 
+Client: 
 ---
 
 ## Information
